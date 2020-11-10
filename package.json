@@ -2,8 +2,8 @@
   "name": "hello360",
   "version": "0.0.1",
   "private": true,
-"homepage": "https://evargast.github.io/hello360",
-"scripts": {
+  "homepage": "https://evargast.github.io/hello360",
+  "scripts": {
     "start": "node node_modules/react-360/scripts/packager.js",
     "bundle": "node node_modules/react-360/scripts/bundle.js",
     "open": "node -e \"require('xopen')('http://localhost:8081/index.html')\"",
